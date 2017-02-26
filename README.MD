@@ -1,6 +1,6 @@
 ## Gaussian Processes
 
-Jupyter notebooks with Gaussian process models for supervised learning tasks.
+Jupyter notebooks with Gaussian processes models for supervised learning tasks.
 
 Main references:
 - Gaussian Processes for Machine Learning - Carl Edward Rasmussen and Christopher K. I. Williams (http://www.gaussianprocess.org/gpml/)
